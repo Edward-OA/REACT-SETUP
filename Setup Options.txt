@@ -1,0 +1,33 @@
+1. npx create-react-app my-react-app
+
+2. npm install -g yarn
+2. yarn create react-app my-react-app
+
+3. npm config set legacy-peer-deps true 
+3. npx create-react-app my-react-app
+
+
+
+4. npm install ajv@latest
+4. npm install ajv-keywords@latest
+
+
+
+
+5. rm -rf node_modules package-lock.json
+5. npm install
+
+
+
+local server 
+npm install -g json-server
+
+
+
+for vite 
+1. npm create vite@4 or npm create vite@latest
+2. npm install vite @vitejs/plugin-react --save-dev
+3. npm run dev
+
+to config eslint for vite 
+1. npm install eslint vite-plugin-eslint eslint-config-react-app --save-dev
