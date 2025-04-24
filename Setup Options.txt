@@ -31,3 +31,16 @@ for vite
 
 to config eslint for vite 
 1. npm install eslint vite-plugin-eslint eslint-config-react-app --save-dev
+
+
+
+
+FOR REDUX 
+two installs necessary 
+npm install redux
+npm install react-redux
+
+//in order to use the middleware we need to first install middleware package
+apply middleware to our store use middleware
+
+npm i redux-thunks
